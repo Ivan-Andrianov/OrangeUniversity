@@ -1,0 +1,21 @@
+animal	legs	hair	feathers	eggs	milk	airborne	predator	toothed	backbone	breathes	venomous	fins	tail	domestic	catsize
+string	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous
+meta															
+dog	4	1	0	0	1	0	1	1	1	1	0	0	1	1	0
+cat	4	1	0	0	1	0	1	1	1	1	0	0	1	1	1
+lion	4	1	0	0	1	0	1	1	1	1	0	0	1	0	1
+bat	2	1	0	0	1	1	0	1	1	1	0	0	0	0	0
+whale	0	0	0	0	1	0	1	1	1	1	0	1	1	0	1
+human	2	1	0	0	1	0	0	1	1	1	0	0	0	0	0
+eagle	2	0	1	1	0	1	1	0	1	1	0	0	1	0	0
+penguin	2	0	1	1	0	0	0	0	1	1	0	1	1	0	0
+chicken	2	0	1	1	0	0	0	0	1	1	0	0	1	1	0
+snake	0	0	0	1	0	0	1	1	1	1	1	0	1	0	0
+lizard	4	0	0	1	0	0	1	1	1	1	0	0	1	0	0
+turtle	4	0	0	1	0	0	0	0	1	1	0	0	1	0	0
+salmon	0	0	0	1	0	0	1	1	1	0	0	1	1	0	0
+shark	0	0	0	1	0	0	1	1	1	0	0	1	1	0	1
+frog	4	0	0	1	0	0	0	0	1	1	0	0	0	0	0
+bee	6	0	0	1	0	1	0	0	0	1	1	0	0	0	0
+ant	6	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+butterfly	6	0	0	1	0	1	0	0	0	1	0	0	0	0	0
